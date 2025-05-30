@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋 I'm Mariesita!
 
-<!--
-**Mariesita/Mariesita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm currently diving into the world of **QA Testing** and building my skills through hands-on projects and continuous learning. 🚀
 
-Here are some ideas to get you started:
+### 🌱 What I'm Learning
+- Manual and Automated QA Testing
+- Tools like **Jira**, **TestRail**, **Postman**, and **Selenium**
+- Writing and executing test cases
+- Bug reporting and issue tracking
+- SQL for data validation and log analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Projects You'll Find Here
+- QA case studies and testing documentation
+- Sprint tasks and exercises from my QA learning journey
+- Explorations into automation testing and API testing
+- My evolving QA portfolio, created with Notion
+
+### 🔍 What I'm Looking For
+- Opportunities to collaborate on beginner-friendly QA projects
+- Feedback on my test cases and bug reports
+- Inspiration and tips from fellow QA learners and professionals
+
+### 📫 Let's Connect!
+Feel free to reach out or explore my repositories to follow my progress.  
+📧 [Email me](mailto:mariaisabelm2051@gmail.com) — I'm always open to connecting with others in the QA and tech community!
+
+---
+
+✨ Thanks for stopping by! ✨
